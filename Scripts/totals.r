@@ -5,3 +5,7 @@ print(total)
 
 #printing the values of x
 print(x)
+
+#we also want to calculate the average
+avg <- mean(numbers)
+print(avg)
